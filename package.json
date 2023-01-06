@@ -1,0 +1,9 @@
+{
+  "name": "@types/onfido-react-native-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.d.ts",
+  "types": "index.d.ts",
+  "author": "Lucas Pelloni",
+  "license": "ISC"
+}
